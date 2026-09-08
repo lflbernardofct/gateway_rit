@@ -1,2 +1,2 @@
 # gateway_rit
-2nd Lab work for RIT classes at FCT NOVA 2026/2027
+2nd lab work for RIT classes at FCT NOVA for MEEC/MERSIM 2026/2027
